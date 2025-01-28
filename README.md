@@ -1,7 +1,5 @@
 # CoronaChronicles
 
-![CoronaChronicles Banner](https://via.placeholder.com/800x200.png?text=CoronaChronicles)
-
 CoronaChronicles is a project that captures and visualizes data trends during the COVID-19 pandemic. The project focuses on providing insights into the pandemic through data analysis and visualization, offering valuable tools to understand its spread and impact.
 
 ---
